@@ -12,10 +12,6 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data
-data/raw/
-data/processed/
-
 # IDE
 .vscode/
 .idea/
