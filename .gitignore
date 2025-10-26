@@ -24,3 +24,5 @@ Thumbs.db
 # Misc
 .env
 *.log
+
+models/sales_model.pkl
