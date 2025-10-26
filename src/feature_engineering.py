@@ -8,6 +8,6 @@ print(df.columns.tolist())
 
 df['InvoiceData'] = pd.to_datetime(df['InvoiceData'])
 
-df('Month') = df['InvoiceData'].dt.mouth
+df('Month') = df['InvoiceData'].dt.month
 
 df['DayOfWeek'] = df['InvoiceData'].dt.dayofweek
